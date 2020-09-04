@@ -1,0 +1,19 @@
+To run this program simply type: 
+    python3 regression.py
+
+Then you will be prompted to enter either p or l
+ ( p for perceptron function, l for logistic function )
+
+ Then will be prompted to enter how many sets of triplets to test.
+ Then will be prompted to enter the samples.
+
+ For example, to test this: P (0, 2,+1) (2, 0, -1) (0, 4,+1) (4, 0, -1)	
+ Follow these steps in my program:	
+
+ Please enter either 'p' or 'l':
+ p
+ Please enter how many sets of triplets you would like to test:
+ 4
+ Please enter the number of input samples separated by a space:
+ 0 2 1 2 0 -1 0 4 1 4 0 -1
+ Output from my program: [-2,0]
